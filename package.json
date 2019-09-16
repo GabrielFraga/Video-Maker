@@ -17,6 +17,13 @@
   },
   "homepage": "https://gitlab.com/GabrielFraga/video-maker#readme",
   "dependencies": {
+<<<<<<< HEAD
+    "algorithmia": "^0.3.10",
+    "readline-sync": "^1.4.10",
+    "sbd": "^1.0.16",
+    "watson-developer-cloud": "^4.0.1"
+=======
     "readline-sync": "^1.4.10"
+>>>>>>> origin/user-input
   }
 }
